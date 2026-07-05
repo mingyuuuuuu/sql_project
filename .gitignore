@@ -1,0 +1,5 @@
+/.vscode
+/csv_files
+/postgres.session.sql
+/sql_course_ymy.session.sql
+/test.sql
